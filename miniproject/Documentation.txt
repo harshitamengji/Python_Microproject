@@ -1,0 +1,20 @@
+PROJECT NAME:- Write a program to generate console base invoice.
+
+GROUP MEMBERS:- (Leader) Harshita Mengji.(create program code and execution)
+                                                Akshata Bagal.(create database and database table)
+                                                Amogh Mhamane.(create program code and execution)
+                                                Arpita Nagmoti.(collecting raw data)
+                                                Anjali Sonawne.
+step 1: Create a database which name is Bookstore.
+step 2: Create a table which name is Books_info.
+step 3: Create a file which name is insert. In this file we add our available products ID,product name and products price.
+step 4: Create one new file for main code name as miniproject1.
+step 5: In main code we inserted our database and and database Table.
+step6:  Code will executed sucessfully.
+            i) ****Welcome to the BOOKSHOP*****
+            ii) Enter your choice:
+           iii) Quantities of books:
+           iv) Continue or Exit:
+           v) THANK YOU.! VISIT AGAIN.!!
+       
+
